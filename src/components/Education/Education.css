@@ -90,6 +90,17 @@
     width: 100%;
 }
 
+.certificate-image {
+    box-sizing: border-box;
+    padding: 1rem;
+    flex: 0.35;
+    margin-top: 1rem;
+    pointer-events: none;
+}
+
+.certificate-image > img {
+    width: 200%;
+}
 
 
 @media (min-width: 992px) and (max-width: 1380px) {

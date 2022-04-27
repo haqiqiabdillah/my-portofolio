@@ -19,7 +19,7 @@ function Achievement() {
           <div className="achievement-body">
             <h1 style={{ color: theme.primary }}>Certificate</h1>
 
-            <div className="education-image">
+            <div className="certificate-image">
               <img src={auditPana} alt="" />
             </div>
             {/* <h4 style={{ color: theme.tertiary }}>{achievementData.bio}</h4> */}
